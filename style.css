@@ -55,3 +55,24 @@ h1
     background-color: lemonchiffon;
     text-align: center;
 }
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding:10px;
+	float:none;
+	text-align: left;
+}
+#num1
+{
+	font-weight: bold;
+}
+#num2
+{
+	font-weight: bold;
+}
+#word
+{
+	text-align: center;
+}
