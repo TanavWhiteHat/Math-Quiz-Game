@@ -72,7 +72,11 @@ h1
 {
 	font-weight: bold;
 }
-#word
+#number1
+{
+	text-align: center;
+}
+#number2
 {
 	text-align: center;
 }
